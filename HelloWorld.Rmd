@@ -1,18 +1,11 @@
 ---
-title: "HellowWorld"
+title: "HelloWorld"
 author: "APS"
 date: "3/21/2020"
 output: word_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## This is a markdown file
 
-
-```{r cars}
-summary(cars)
-```
 
